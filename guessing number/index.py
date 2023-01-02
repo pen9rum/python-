@@ -1,6 +1,6 @@
 import random
 life=10
-count=0;
+count=0
 player=int(input('輸入遊玩人數，1代表單人模式，2代表雙人模式!'))  
 print('最多只能玩1000次')
 for i in range(1000):
